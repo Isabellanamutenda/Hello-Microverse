@@ -4,7 +4,6 @@
 This Hello world project is the first project where I  set up HTML & CSS linters
 
 
-![screenshot](./app_screenshot.png)
 
 
 ## Getting Started
